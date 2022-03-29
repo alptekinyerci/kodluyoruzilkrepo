@@ -9,7 +9,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) Front-end eğitiminde ödev olarak 
 git clone https://github.com/alptekinyerci/kodluyoruzilkrepo.git
 ```
 
-![kodluyoruz](https://resimyukle.imageupload.workers.dev/lTemLkTT_kodluyoruz.jpg)
+![kodluyoruz](https://github.com/alptekinyerci/kodluyoruzilkrepo/blob/3efcb641ad537c21357d3400a807aab55e5fb8eb/kodluyoruz.jpg?raw=true)
 
 ## Kullanım
 
